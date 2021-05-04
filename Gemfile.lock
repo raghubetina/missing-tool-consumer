@@ -1,0 +1,23 @@
+GIT
+  remote: https://github.com/instructure/ims-lti.git
+  revision: 7f176e17de742a2645196541361dcba291e1cbe9
+  branch: 1.2.x
+  specs:
+    ims-lti (1.2.4)
+      builder (>= 1.0, < 4.0)
+      oauth (>= 0.4.5, < 0.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    builder (3.2.4)
+    oauth (0.5.6)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  ims-lti!
+
+BUNDLED WITH
+   2.2.16
